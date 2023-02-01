@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Thân Phạm. I am a front-end developer.<br>
+My name is Thân Phạm. I am a front-end developer. Below are some of the projects that i have worked on.<br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/thanpham/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/thanphamm/) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC8fno1WZZJwaR3KHq0i3uQA)
@@ -44,6 +44,10 @@ My name is Thân Phạm. I am a front-end developer.<br>
 <a href="https://https://github.com/thanphamm/post-jquery">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanphamm&repo=post-jquery&theme=cobalt" />
+</a>
+<a href="https://github.com/thanphamm/tour-of-heroes">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanphamm&repo=tour-of-heroes&theme=onedark" />
 </a>
 
 
