@@ -31,3 +31,19 @@ My name is Thân Phạm. I am a front-end developer.<br>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanphamm&repo=furnitown&theme=merko" />
 </a>
+
+<a href="https://github.com/thanphamm/F8-shopee">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanphamm&repo=F8-shopee&theme=gruvbox" />
+</a>
+<a href="https://github.com/thanphamm/asm-laravel/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanphamm&repo=asm-laravel&theme=synthwave" />
+</a>  
+
+<a href="https://https://github.com/thanphamm/post-jquery">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanphamm&repo=post-jquery&theme=cobalt" />
+</a>
+
+
